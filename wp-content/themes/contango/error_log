@@ -1,0 +1,1 @@
+[12-Oct-2014 19:44:17 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/ovationf/public_html/baby/wp-content/themes/contango/index.php on line 1

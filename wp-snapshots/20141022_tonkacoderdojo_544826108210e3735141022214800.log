@@ -1,0 +1,104 @@
+********************************************************************************
+PACKAGE-LOG: 2014-10-22 21:48:39
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.8
+WORDPRESS:	4.0
+PHP INFO:	5.4.32 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:37 | filtered:0 | create:37 
+FILTERED: [] 
+BBold-po9ouqd7x2_cpl_commentmeta (3) 
+BBold-po9ouqd7x2_cpl_comments (1) 
+BBold-po9ouqd7x2_cpl_hw_blocks (133) 
+BBold-po9ouqd7x2_cpl_hw_layout_meta (7) 
+BBold-po9ouqd7x2_cpl_hw_snapshots (3) 
+BBold-po9ouqd7x2_cpl_hw_wrappers (52) 
+BBold-po9ouqd7x2_cpl_itsec_lockouts (0) 
+BBold-po9ouqd7x2_cpl_itsec_log (0) 
+BBold-po9ouqd7x2_cpl_itsec_temp (0) 
+BBold-po9ouqd7x2_cpl_links (0) 
+BBold-po9ouqd7x2_cpl_options (233) 
+BBold-po9ouqd7x2_cpl_postmeta (150) 
+BBold-po9ouqd7x2_cpl_posts (29) 
+BBold-po9ouqd7x2_cpl_term_relationships (13) 
+BBold-po9ouqd7x2_cpl_term_taxonomy (5) 
+BBold-po9ouqd7x2_cpl_terms (5) 
+BBold-po9ouqd7x2_cpl_usermeta (65) 
+BBold-po9ouqd7x2_cpl_users (6) 
+cpl_commentmeta (0) 
+cpl_comments (2) 
+cpl_duplicator_packages (1) 
+cpl_hw_blocks (133) 
+cpl_hw_layout_meta (7) 
+cpl_hw_snapshots (3) 
+cpl_hw_wrappers (52) 
+cpl_itsec_lockouts (0) 
+cpl_itsec_log (223) 
+cpl_itsec_temp (0) 
+cpl_links (0) 
+cpl_options (276) 
+cpl_postmeta (205) 
+cpl_posts (31) 
+cpl_term_relationships (17) 
+cpl_term_taxonomy (6) 
+cpl_terms (6) 
+cpl_usermeta (110) 
+cpl_users (6) 
+SQL CREATED: 20141022_tonkacoderdojo_544826108210e3735141022214800_database.sql 
+SQL FILE SIZE: 3.22MB 
+SQL RUNTIME: 0.30 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home2/ovationf/public_html/baby 
+ARCHIVE FILE: 20141022_tonkacoderdojo_544826108210e3735141022214800_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	96.03MB 
+STATS:	Dirs 577 | Files 4,006 | Links 0 
+SQL ADDED: 20141022_tonkacoderdojo_544826108210e3735141022214800_database.sql 
+WARNING: Unable to zip directory: '/home2/ovationf/public_html/baby' 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4583
+    [filename] => /home2/ovationf/public_html/baby/wp-snapshots/tmp/20141022_tonkacoderdojo_544826108210e3735141022214800_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 53.05MB 
+ARCHIVE RUNTIME: 11.42 sec. 
+
+******************************************************************************** 
+INSTALLER: 
+******************************************************************************** 
+INSTALLER FILE: Build Start 
+INSTALLER FILE: Build Finished 
+INSTALLER FILE: Preping for use 
+INSTALLER FILE: Template parsed with new data 
+INSTALLER FILE: Complete [/home2/ovationf/public_html/baby/wp-snapshots/tmp/20141022_tonkacoderdojo_544826108210e3735141022214800_installer.php] 
+INSTALLER FILE: Added to archive 
+
+********************************************************************************
+RECORD ID:[1]
+FILE SIZE: Archive:53.05MB | SQL:3.22MB | Installer:414.46KB
+TOTAL PROCESS RUNTIME: 12.16 sec.
+DONE PROCESSING => 20141022_tonkacoderdojo 2014-10-22 21:48:51
+********************************************************************************
+ 
